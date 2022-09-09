@@ -1,0 +1,9 @@
+@import "./montserrat.css";
+@import "./fraunces.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
